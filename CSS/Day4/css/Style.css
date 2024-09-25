@@ -1,0 +1,84 @@
+.red{
+    color:tomato
+}
+.blue{
+    color:blue;
+}
+/* .hamda{ */
+    /* width: 600px; */
+    /* height: 1000px; */
+    /* color: red; */
+    /* background-color:rgba(200, 188, 10,0.5) ;
+    background-image: url('../IMGS/Brown Minimalist Fashion Facebook Cover.png');
+background-size: cover;
+background-attachment: fixed; */
+/* background-repeat: no-repeat;
+background-position: 10px 20px; */
+/* background: url(../IMGS/Brown\ Minimalist\ Fashion\ Facebook\ Cover.png) rgb(220, 100, 20) no-repeat; */
+/* } */
+/* .div1{
+    width: 200px;
+    height: 100px;
+    background-color: tomato;
+    margin:20px ;
+    /* padding-top: 10px; */
+    /* border-style:solid;
+    border-width: 2px;
+    border-color: cornflowerblue; */
+    /* border:solid lightslategrey 2px; */
+
+/* } */
+/* .div2{
+    width: 250px;
+    height: 300px;
+    background-color:gray;
+
+}  */
+  .card{
+    /* padding: 10px; */
+  /* background-color: gray; */
+  float: left;
+  width: 33.333%;
+  text-align: center;
+  
+}
+.clr{
+    clear: both;
+}
+  /* div{
+    background-color: red;
+    width: 32.5%;
+    height: 50px;
+    display: inline-block;
+  } */
+   img{
+    width: 100%;
+    border-radius:50% ;
+  -webkit-border-radius:50% ;
+  -moz-border-radius:50% ;
+  -ms-border-radius:50% ;
+  -o-border-radius:50% ;
+   }
+   /* .www{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    margin: auto;
+    color: aqua;
+    text-align: center;
+   } */
+   h1{
+    text-align: center;
+    /* background-color: brown; */
+    /* margin: auto; */
+   }
+   /* .test{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+   
+} */
+/* .card ,p,div,h1{
+    background-color:red;
+} */
